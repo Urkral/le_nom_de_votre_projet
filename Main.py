@@ -6,3 +6,5 @@ print("coucou")
 # Le cas des merges conflict : je code un truc dans main
 
 print("Je suis sur la branche main")
+
+# Je reviens donc sur la branche main et je merge ma branche personnage
