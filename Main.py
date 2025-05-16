@@ -8,3 +8,7 @@ print("coucou")
 print("Je suis sur la branche main")
 
 # Je reviens donc sur la branche main et je merge ma branche personnage
+
+# Je repasse sur la branche personnage et je code un autre trucs
+
+print("Je suis sur la branche personnage")
