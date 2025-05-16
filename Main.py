@@ -25,3 +25,7 @@ print("Je suis sur la branche personnage")
 # Et pour finir on évite de faire ces merge 1h avant de rendre le projet
 # On se parler pour éviter les merges conflicts
 # Voilà donc les bases de github
+
+
+
+# Je me rend compte que je n'ai pas expliqué comment créer une nouvelle branche en bas a gauche il faut cliquer sur le nom de la branche et ensuite sur "Create new branch from", vous indiquez le nom de la branche et vous êtes sur votre nouvelle branche et votre premier commit sera sur cette nouvelle branche et votre premier push la publiera sur github
